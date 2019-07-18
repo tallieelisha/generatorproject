@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+}
+
+
+
+button {
+  width: 100px;
+      height: 100px;
+      border: dotted;
+      color: blue;
+      background: none;
+      display: inline-block;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      font-weight: 300;
+      outline: none;
+      position: absolute;
+      -webkit-transition: all 0.3s;
+      -moz-transition: all 0.3s;
+      transition: all 0.3s;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      margin: auto;
+}
+
+
+h1{
+  font-family: 'Apple Chancery', cursive;
+  color: #E75480;
+  padding-top: 200px;
+  padding-right: 40px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  margin-bottom: 20%;
+  text-align: center
+}
+
+p{
+    color: blue;
+    font-family: 'Apple Chancery', cursive;
+    position: relative;
+	   top: 15px;
+	   left: 150px;
+}
